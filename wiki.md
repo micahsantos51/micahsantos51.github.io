@@ -15,4 +15,4 @@ Micah Santos is a 4th year student in the Geography department at the [*Universi
 #### List of Links: 
 - [LinkedIn](https://www.linkedin.com/in/micah-santos-376939302/) <- Feel free to connect!
 - [University of Washington](https://www.washington.edu/)
-- [Instagram]("ttps://www.instagram.com/micahminoru_1864/?hl=en)
+- [Instagram]("https://www.instagram.com/micahminoru_1864/?hl=en)
